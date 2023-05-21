@@ -30,7 +30,7 @@ function App() {
         arrBackground={arrBackground}
       />
       </div>
-      <a className='link' href="link1" target="_blank">repositorio</a>
+      <a className='link' href="https://github.com/vera251t/Galleta-de-la-fortuna" target="_blank">repositorio</a>
     </>
   )
 }
